@@ -1,0 +1,11 @@
+# 👮♂ LECTURA DE DERECHOS
+
+La lectura de derechos se realizará una vez que el detenido esté dentro del vehículo policial, en camino a la comisaría. Se le pueden repetir los derechos hasta en tres ocasiones, y si en el tercer intento muestra resistencia, se dará por entendido que los ha comprendido. En situaciones en las que no sea posible leer los derechos al detenido antes de ingresar a la comisaría, se le leerán una vez dentro del vehículo.
+
+En caso de que no se le lean los derechos al detenido antes de ingresar a la comisaría, este puede reclamar la libertad mediante un procedimiento judicial conocido como "hábeas corpus". En este procedimiento, el detenido comparecerá ante un juez, quien determinará si existen motivos suficientes para su condena. El detenido tiene derecho a permanecer en silencio, y cualquier declaración que haga puede ser utilizada en su contra.
+
+Además, el detenido tiene derecho a recibir comida y bebida, asistencia médica o sanitaria, conocer los motivos de su detención, realizar una llamada de hasta cinco minutos en presencia de un agente de la ley, y contar con un abogado. En caso de que no tenga un abogado, se le asignará uno de oficio. Sin embargo, si el delito es flagrante, es decir, se está cometiendo en ese mismo momento, el detenido no tendrá derecho a un abogado durante la detención.
+
+El tiempo de prisión para un detenido en la comisaría sería de menos de 30 minutos en tiempo fuera de juego (OOC), mientras que a partir de 30 minutos en tiempo OOC, el detenido sería trasladado a prisión federal. Por ejemplo, si un detenido pasa 10 minutos en tiempo OOC, su tiempo de prisión en el juego sería de 10 meses.
+
+En el caso de prisión federal (cadena perpetua), un detenido sería enviado a cadena perpetua en las siguientes situaciones: acumulación de multas por un total de 75,000 dólares (el detenido puede evitar la cadena perpetua si se le da un ultimátum y paga la deuda en menos de 30 minutos), pruebas suficientes de pertenencia a una banda, posesión de una gran cantidad de drogas (se evaluará la situación con un superior o juez antes del encarcelamiento) o posesión de armas grandes sin licencia o armas de mercado negro. Otras situaciones que puedan llevar a un detenido a prisión federal serán evaluadas por un rango superior para tomar decisiones.
