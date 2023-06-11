@@ -1,0 +1,5 @@
+# 17 - Ausente del Teclado (AFK)
+
+AFK, que significa "Away From Keyboard" o "Ausente del Teclado", se refiere a estar físicamente o virtualmente ausente del juego, ya sea por estar lejos del ordenador o tener el juego minimizado mientras se hacen otras cosas. Esta acción interrumpe la experiencia de rol ya que el jugador deja de participar. Solo se permitirá estar AFK durante unos minutos cuando nuestro personaje esté dentro de su vivienda. Sin embargo, esto no significa quedarse dentro de la casa sin hacer nada o utilizar macros o animaciones para evitar el sistema de detección de AFK. Cualquier usuario que utilice macros o animaciones para evadir el AFK recibirá sanciones graves.
+
+También es importante tener en cuenta que cualquier usuario que esté AFK es vulnerable a las interacciones con otros jugadores, incluyendo ser fácilmente objetivo de robos o secuestros si no está prestando atención. Estar AFK no está permitido y no te hace inmune a las interacciones, sino todo lo contrario.
