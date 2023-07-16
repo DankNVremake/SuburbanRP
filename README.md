@@ -1,6 +1,12 @@
+---
+description: ROLEPLAY Y DRIFT
+cover: .gitbook/assets/logo.png
+coverY: -18
+---
+
 # ❤ Introducción a SuburbanRP
 
-##
+
 
 Bienvenidos a SuburbanRP, un servidor de role play (RP) que te invita a sumergirte en una emocionante y auténtica experiencia de juego. Prepárate para explorar un mundo virtual lleno de posibilidades, donde podrás crear tu propio personaje y darle vida en un entorno urbano en constante evolución.
 

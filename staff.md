@@ -1,9 +1,14 @@
 # 😈 Staff
 
-* 😈 El Dictador Dank: Con años de experiencia en el mundo del role play, el Dictador Dank lidera SuburbanRP con mano firme y conocimiento profundo del juego. Su sabiduría y dominio te aseguran una experiencia de juego inigualable.
+* 😈 El Dictador Dank: Con años de experiencia en el mundo del role play, el Dictador Dank lidera SuburbanRP con mano firme y conocimiento profundo del juego. Su sabiduría y dominio te aseguran una experiencia de juego inigualable.\
+  \
+
 *
 
-    🌟 Moli: Con una larga trayectoria en el mundo del role play, Moli se destaca por su empatía y su habilidad para crear historias cautivadoras. Su experiencia te garantiza momentos de diversión y participación en SuburbanRP.
+    <figure><img src=".gitbook/assets/DANKSUB.jpg" alt=""><figcaption></figcaption></figure>
+
+🌟 Moli: Con una larga trayectoria en el mundo del role play, Moli se destaca por su empatía y su habilidad para crear historias cautivadoras. Su experiencia te garantiza momentos de diversión y participación en SuburbanRP.
+
 *
 
     🔥 Gon: Como veterano en la comunidad de SuburbanRP, Gon aporta su pasión y entusiasmo a cada evento y actividad. Su conocimiento del juego te asegura una experiencia llena de emociones y desafíos.

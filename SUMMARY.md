@@ -2,7 +2,6 @@
 
 * [❤ Introducción a SuburbanRP](README.md)
 * [😈 Staff](staff.md)
-* [📗 Normativa](normativa.md)
 * [📖 Normativa General](normativa-general/README.md)
   * [2 - Conversaciones fuera de rol (OOC)](normativa-general/2-conversaciones-fuera-de-rol-ooc.md)
   * [3 - El uso de macros](normativa-general/3-el-uso-de-macros.md)
@@ -54,7 +53,7 @@
 * [📖 Negocios](negocios/README.md)
   * [1 - Actividad obligatoria en negocios](negocios/1-actividad-obligatoria-en-negocios.md)
 * [🚓 LSPD and LSFD](lspd-and-lsfd/README.md)
-  * [2 - LSFD (Departamento de Bomberos de Los Santos)](lspd-and-lsfd/2-lsfd-departamento-de-bomberos-de-los-santos.md)
+  * [1 - LSFD (Departamento de Bomberos de Los Santos)](lspd-and-lsfd/1-lsfd-departamento-de-bomberos-de-los-santos.md)
 * [🎤 Voz](voz.md)
 * [🚔 Normativa LSPD](normativa-lspd/README.md)
   * [🗣 Requisiitos](normativa-lspd/requisiitos.md)
